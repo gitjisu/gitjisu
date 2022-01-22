@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=bdb8ec&height=250&section=header&text=🐰GITJISU💕BTS%20&fontSize=40&fontColor=1d1504&animation=twinkling&)
-![footer](https://capsule-render.vercel.app/api?section=footer)
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitjisu&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![footer](https://capsule-render.vercel.app/api?section=footer&color=bdb8ec)
 
 <!--
 **gitjisu/gitjisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
