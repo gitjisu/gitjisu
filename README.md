@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=d0b5fd&height=250&section=header&text=🐰GITJISU💕BTS%20&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=d0b5fd&height=250&section=header&text=🐰GITJISU💕BTS%20&fontSize=40&fontColor=ffffff&animation=twinkling)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitjisu&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
