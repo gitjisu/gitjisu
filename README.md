@@ -7,7 +7,10 @@
  🙋‍ WHO I AM?
  
  
- I graduated from Gwangju Women's University Department of Aviation Service.
+🤍 I graduated from Gwangju Women's University Department of Aviation Service.
+🤍 I started learning Python recently (at SSAFY)
+🤍 I'm interesting on Front-End Developer
+
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=bdb8ec&height=150)
  
