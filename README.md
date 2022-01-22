@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=bdb8ec&height=230&section=header&text=🐰GITJISU💕BTS%20&fontSize=30&fontColor=1d1504&animation=twinkling&)
+![header](https://capsule-render.vercel.app/api?type=wave&color=bdb8ec&height=200&section=header&text=🐰GITJISU💕BTS%20&fontSize=30&fontColor=1d1504&animation=twinkling&)
 
 
 
