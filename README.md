@@ -8,7 +8,9 @@
  
  
 🤍 I graduated from Gwangju Women's University Department of Aviation Service.
+ 
 🤍 I started learning Python recently (at SSAFY)
+ 
 🤍 I'm interesting on Front-End Developer
 
 
