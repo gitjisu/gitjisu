@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitjisu&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=bdb8ec&height=230)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=bdb8ec&height=150)
 
 <!--
 **gitjisu/gitjisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
