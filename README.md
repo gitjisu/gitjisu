@@ -9,9 +9,11 @@
  
 🤍 I graduated from Gwangju Women's University Department of Aviation Service.
  
-🤍 I started learning Python recently (at SSAFY)
+🤍 I started learning Python, JS, HTML, CSS, Vue.js, React recently (at SSAFY)
  
-🤍 I'm interesting on Front-End Developer
+🤍 I'm interesting on Front-End Developer, UI/UX Design, Drawing, Marketing
+
+
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=bdb8ec&height=150)
