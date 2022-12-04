@@ -9,7 +9,7 @@
  
 🤍 I graduated from Gwangju Women's University Department of Aviation Service.
  
-🤍 I started learning Python, JS, HTML, CSS, Vue.js, React recently (at SSAFY)
+🤍 I started learning Python, JS, TS, HTML, CSS, Vue.js, React, Reac-Native recently (at SSAFY)
  
 🤍 I'm interesting on Front-End Developer, UI/UX Design, Drawing, Marketing
 
