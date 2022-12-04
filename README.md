@@ -3,7 +3,7 @@
  
  <br/><br/><br/>
  
- #### I'm Front-End developer with UI/UX skills.
+ #### I'm Front-End developer with UI/UX skills
  
   <br/><br/>
  **📚 Tech Stack 📚**    
