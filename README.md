@@ -29,7 +29,7 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=2fc38d&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=58d7a8&height=200&section=footer)
  
 
 <!--
