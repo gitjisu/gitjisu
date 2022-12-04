@@ -1,9 +1,10 @@
-
-
 <div align=center>
-
- **📚 Tech Stack 📚**     
- ✨ Platforms & Languages ✨.  
+<img width="945" alt="스크린샷 2022-12-04 오후 11 53 27" src="https://user-images.githubusercontent.com/97588888/205497793-eaa75d36-295d-47e3-bdb1-c39b14cbcd68.png">     
+ 
+ <br/><br/><br/>
+ 
+ **📚 Tech Stack 📚**    
+ ✨ Platforms & Languages ✨       
  
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
  
@@ -21,11 +22,11 @@
  
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
+<br/><br/><br/>
 
 
 
-
-![footer](https://capsule-render.vercel.app/api?section=footer&color=8700FF&height=150)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=FFFFFF&height=150)
  
 
 <!--
