@@ -2,6 +2,7 @@
 <img width="945" alt="스크린샷 2022-12-04 오후 11 53 27" src="https://user-images.githubusercontent.com/97588888/205497793-eaa75d36-295d-47e3-bdb1-c39b14cbcd68.png">     
  
  <br/><br/><br/>
+
  
  #### I'm Front-End developer with UI/UX skills
  
@@ -9,7 +10,7 @@
  **📚 Tech Stack 📚**    
  ✨ Platforms & Languages ✨       
  
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=Nuxt.js&logoColor=white"/> 
  
  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/>
  
